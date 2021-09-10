@@ -1,0 +1,12 @@
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\bin\Debug\net5.0\Travelus.Tr.deps.json
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\bin\Debug\net5.0\Travelus.Tr.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\bin\Debug\net5.0\ref\Travelus.Tr.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\bin\Debug\net5.0\Travelus.Tr.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.csproj.AssemblyReference.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.GeneratedMSBuildEditorConfig.editorconfig
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.AssemblyInfoInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.AssemblyInfo.cs
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.csproj.CoreCompileInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\ref\Travelus.Tr.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.Transversal\Travelus.Tr\obj\Debug\net5.0\Travelus.Tr.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NSVQpEPAtL7t3hvRIuFhOZc6uaXyUO9tR7SpNs05Q3GmCn1p27PpFAzm9uY82+kTKo6A53nousN/mPU3NpFlbQ==",
+  "success": true,
+  "projectFilePath": "C:\\CARLOS\\PERSONAL\\Herramientas_Dllo_Soft\\MVC_NetCore\\5\\Travel\\Travelus.Transversal\\Travelus.Tr\\Travelus.Tr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlosas\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.9\\microsoft.aspnetcore.http.features.5.0.9.nupkg.sha512",
+    "C:\\Users\\carlosas\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\carlosas\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

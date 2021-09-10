@@ -1,0 +1,14 @@
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\bin\Debug\net5.0\Travelus.DA.deps.json
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\bin\Debug\net5.0\Travelus.DA.runtimeconfig.json
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\bin\Debug\net5.0\Travelus.DA.runtimeconfig.dev.json
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\bin\Debug\net5.0\Travelus.DA.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\bin\Debug\net5.0\ref\Travelus.DA.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\bin\Debug\net5.0\Travelus.DA.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.AssemblyInfoInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.AssemblyInfo.cs
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.csproj.CoreCompileInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\ref\Travelus.DA.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\MVC_NetCore\5\Travel\Travelus.DA\Travelus.DA\obj\Debug\net5.0\Travelus.DA.genruntimeconfig.cache
