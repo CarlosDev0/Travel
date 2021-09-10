@@ -1,3 +1,6 @@
+CREATE DATABASE [BDTravel]
+GO
+
 USE [BDTravel]
 CREATE TABLE dbo.tblAuthor
 (id int primary key identity,
